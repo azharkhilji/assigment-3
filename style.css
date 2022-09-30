@@ -1,0 +1,107 @@
+.h1{
+
+    color: darkturquoise;
+    text-align:center;
+    font-size: 50px;
+
+}
+ 
+.circle{
+
+ 
+    border: solid 2px green;
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border-radius: 100px;
+
+}
+
+ 
+.square{
+
+ 
+    border: solid 2px darksalmon;
+    width: 200px;
+    height: 200px;
+    background-color: lightblue;
+    
+
+} 
+
+
+ .rectangle{
+
+ 
+    border: solid 2px darksalmon;
+    width: 300px;
+    height: 150px;
+    background-color: lightgreen;
+    
+
+} 
+
+
+
+.triangle{
+
+ 
+    /* border: solid 2px darksalmon; */
+    width: 0;
+    height: 0;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+    border-bottom: 200px solid #DEFD31;
+
+} 
+
+
+
+
+
+     .button{
+
+margin-top: 5%;
+margin-left: 25%;
+
+     }
+
+     .btn_circle{
+
+        font-size: 25px;
+        width: 10%;
+     }
+
+
+     .btn_squar{
+
+        font-size: 25px;
+        width: 10%;
+     }
+     .btn_rectangle{
+
+        font-size: 25px;
+        width: 15%;
+     }
+
+
+     .btn_triangle{
+
+        font-size: 25px;
+        width: 15%;
+     }
+     
+
+     .forms{
+
+      /* margin-left: 25%;   */
+
+
+
+     }
+h1{
+
+ font-size: 45px;
+ color: cornflowerblue;
+
+}
